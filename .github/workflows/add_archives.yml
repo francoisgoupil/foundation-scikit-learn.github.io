@@ -1,4 +1,4 @@
-name: Generate Jekyll Archives
+ame: Generate Jekyll Archives
 # description: Generate categories, tags and years archive files.
 on:
   workflow_dispatch:
@@ -17,15 +17,16 @@ jobs:
           mkdir -p _archives/categories
           mkdir -p _archives/tags
           mkdir -p _archives/years
-
       - name: Generate Jekyll Archives
         uses: kannansuresh/jekyll-blog-archive-workflow@master
+        with:
+          archive_url: "https://scikit-learn-inria-fondation.github.io/archives/archivedata"
+          archive_folder_path: "_archives"
 
       - name: setup git config
         run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "<>"
-
       - name: commit
         run: |
           git add --all

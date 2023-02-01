@@ -1,0 +1,40 @@
+main:
+  - title: "Actualités"
+    url: /actualites
+  - title: "Equipe"
+    sublinks:
+      - title: "Notre équipe"
+        url: /notre-equipe
+      - title: "Nous rejoindre"
+        url: /nous-rejoindre
+  - title: "Partenaires"
+    url: /partenaires
+  - title: "Evénements"
+    url: /evenements
+  - title: "Chiffres clés"
+    url: /chiffres-cles
+    
+# Sidebar
+docs:
+  - title: Archives
+    children:
+      - title: "Category"
+        url: /categories/
+      - title: "Tag"
+        url: /tags/
+      - title: "Year"
+        url: /years/
+
+  - title: scikit-learn
+    children:
+      - title: "About Us"
+        url: https://scikit-learn.org/stable/about
+      - title: "FAQ"
+        url: https://scikit-learn.org/stable/faq
+
+  - title: Mailing List
+    children:
+      - title: "Subscribe"
+        url: https://mail.python.org/mailman/listinfo/scikit-learn
+      - title: "Archive"
+        url: https://mail.python.org/pipermail/scikit-learn/

@@ -2,7 +2,7 @@
 
 ![scikit-learn logo](/assets/images/scikit-learn-logo.png)
 
-This repository hosts the development of the [scikit-learn.org](https://scikit-learn.org/stable/) blog.
+This repository hosts the development of the [scikit-learn.org](https://scikit-learn.org/stable/) consortium webstoe.
 
 
 &nbsp;

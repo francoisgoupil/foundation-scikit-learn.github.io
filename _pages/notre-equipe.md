@@ -1,6 +1,6 @@
 ---
 title: "Notre équipe"
-permalink: /notre-equipe
+permalink: /notre-equipe/
 layout: splash
 author_profile: true
 header:

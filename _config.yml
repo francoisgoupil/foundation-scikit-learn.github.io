@@ -16,8 +16,7 @@ baseurl: "/"
 url: "https://scikit-learn-inria-fondation.github.io" # the base hostname
 twitter_username: scikit_learn
 github_username:  scikit-learn
-repository:  scikit-learn-inria-fondation /
-website
+repository:  scikit-learn-inria-fondation/website
 
 header:
   image: /assets/images/scikit-header.png

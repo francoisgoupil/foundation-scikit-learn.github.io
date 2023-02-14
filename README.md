@@ -2,7 +2,7 @@
 
 ![scikit-learn logo](/assets/images/scikit-learn-logo.png)
 
-This repository hosts the development of the scikit-learn consortium [website](https://scikit-learn-inria-fondation.github.io/).
+This repository hosts the development of the scikit-learn consortium [website](https://scikit-learn-inria-fondation.github.io/website/).
 
 
 &nbsp;

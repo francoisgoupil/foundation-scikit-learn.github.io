@@ -9,14 +9,15 @@ minimal_mistakes_skin: "scikit" #air", "aqua", "contrast", "dark", "dirt", "neon
 # Site Settings
 title: "scikit-learn @ Fondation Inria"
 email: social@scikit-learn.org
-description: "The official blog of scikit-learn, an open source library for machine learning in Python."
+description: "The official website of the scikit-learn consortium, an open source library for machine learning in Python."
 logo: assets/images/scikit-learn-logo.png
 favicon: assets/images/scikit-learn-logo.png
 baseurl: "/"
-url: "https://blog.scikit-learn.org" # the base hostname
+url: "https://scikit-learn-inria-fondation.github.io" # the base hostname
 twitter_username: scikit_learn
 github_username:  scikit-learn
-repository: scikit-learn/blog
+repository:  scikit-learn-inria-fondation /
+website
 
 header:
   image: /assets/images/scikit-header.png

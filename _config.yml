@@ -13,7 +13,7 @@ description: "The official website of the scikit-learn consortium, an open sourc
 logo: assets/images/scikit-learn-logo.png
 favicon: assets/images/scikit-learn-logo.png
 baseurl: "/"
-url: "https://scikit-learn-inria-fondation.github.io/website" # the base hostname
+url: "https://scikit-learn-inria-fondation.github.io/website/" # the base hostname
 twitter_username: scikit_learn
 github_username:  scikit-learn
 repository:  scikit-learn-inria-fondation/website
